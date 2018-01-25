@@ -187,3 +187,4 @@ class simpleGUI():
 if __name__ == '__main__':
     simpleGUI()
     #time is too long
+    # hello , i`m miss sun, hoe about you!
